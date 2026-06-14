@@ -1,0 +1,49 @@
+Team,Flag,Confederation,Group,FIFA_Rank,Host_Country,Base_Camp_City,Base_Camp_State_Region,Training_Facility,Latitude,Longitude,World_Cup_Debut,Host_Nation
+United States,🇺🇸,CONCACAF,D,17,USA,Irvine,California,Great Park Sports Complex,33.6839,-117.7947,No,Yes
+Mexico,🇲🇽,CONCACAF,A,14,Mexico,Mexico City,CDMX,Centro de Alto Rendimiento (CAR),19.4326,-99.1332,No,Yes
+Canada,🇨🇦,CONCACAF,B,30,Canada,Vancouver,British Columbia,National Soccer Development Centre,49.2827,-123.1207,No,Yes
+Panama,🇵🇦,CONCACAF,L,80,Canada,New Tecumseth,Ontario,Nottawasaga Training Site,44.0836,-79.7672,No,No
+Haiti,🇭🇹,CONCACAF,C,99,USA,Galloway Township,New Jersey,Stockton University,39.4884,-74.4732,No,No
+Curaçao,🇨🇼,CONCACAF,E,88,USA,Boca Raton,Florida,Florida Atlantic University,26.3683,-80.1289,Yes,No
+Argentina,🇦🇷,CONMEBOL,J,1,USA,Kansas City,Kansas,Sporting KC Training Center,39.0997,-94.5786,No,No
+Brazil,🇧🇷,CONMEBOL,C,6,USA,Morristown,New Jersey,Columbia Park Training Facility,40.7968,-74.4815,No,No
+Colombia,🇨🇴,CONMEBOL,K,13,Mexico,Zapopan,Jalisco,Academia Atlas FC,20.7114,-103.4057,No,No
+Uruguay,🇺🇾,CONMEBOL,H,16,Mexico,Playa del Carmen,Quintana Roo,Mayakoba Training Center,20.6296,-87.0739,No,No
+Ecuador,🇪🇨,CONMEBOL,E,23,USA,Columbus,Ohio,Columbus Crew Performance Center,39.9612,-82.9988,No,No
+Paraguay,🇵🇾,CONMEBOL,D,41,USA,San Jose,California,Spartan Soccer Complex - SJSU,37.3382,-121.8863,No,No
+England,🏴󠁧󠁢󠁥󠁮󠁧󠁿,UEFA,L,4,USA,Kansas City,Missouri,Swope Soccer Village,39.0518,-94.4770,No,No
+France,🇫🇷,UEFA,I,3,USA,Waltham,Massachusetts,Bentley University,42.3765,-71.2356,No,No
+Spain,🇪🇸,UEFA,H,2,USA,Chattanooga,Tennessee,Baylor School,35.0456,-85.3097,No,No
+Portugal,🇵🇹,UEFA,K,5,USA,Palm Beach Gardens,Florida,Gardens North County District Park,26.8235,-80.1342,No,No
+Netherlands,🇳🇱,UEFA,F,8,USA,Kansas City,Missouri,KC Current Training Facility,39.0628,-94.5133,No,No
+Belgium,🇧🇪,UEFA,G,9,USA,Renton,Washington,Seattle Sounders FC Performance Centre,47.4829,-122.2171,No,No
+Germany,🇩🇪,UEFA,E,10,USA,Winston-Salem,North Carolina,Wake Forest University,36.0999,-80.2442,No,No
+Croatia,🇭🇷,UEFA,L,11,USA,Alexandria,Virginia,Episcopal High School Sports Complex,38.8048,-77.0469,No,No
+Switzerland,🇨🇭,UEFA,B,19,USA,San Diego,California,San Diego Jewish Academy,32.7580,-117.1230,No,No
+Austria,🇦🇹,UEFA,J,24,USA,Goleta,California,UC Santa Barbara - Harder Stadium,34.4358,-119.8276,No,No
+Türkiye,🇹🇷,UEFA,D,22,USA,Mesa,Arizona,Arizona Athletic Grounds,33.4152,-111.8315,No,No
+Norway,🇳🇴,UEFA,I,31,USA,Greensboro,North Carolina,UNC Greensboro,36.0726,-79.7920,No,No
+Sweden,🇸🇪,UEFA,F,38,USA,Frisco,Texas,FC Dallas Stadium (Toyota Stadium),33.1507,-96.8236,No,No
+Scotland,🏴󠁧󠁢󠁳󠁣󠁴󠁿,UEFA,C,42,USA,Charlotte,North Carolina,Charlotte FC Training Center,35.2271,-80.8431,No,No
+Bosnia & Herzegovina,🇧🇦,UEFA,B,64,USA,Herriman,Utah,Real Salt Lake Stadium,40.5144,-112.0386,No,No
+Czechia,🇨🇿,UEFA,A,32,USA,Mansfield,Texas,Mansfield Multipurpose Stadium,32.5632,-97.1417,No,No
+Morocco,🇲🇦,CAF,C,7,USA,Basking Ridge,New Jersey,The Pingry School,40.7079,-74.5510,No,No
+Senegal,🇸🇳,CAF,I,15,USA,Piscataway,New Jersey,Rutgers University,40.5490,-74.4628,No,No
+Algeria,🇩🇿,CAF,J,28,USA,Lawrence,Kansas,University of Kansas,38.9717,-95.2353,No,No
+Egypt,🇪🇬,CAF,G,29,USA,Spokane,Washington,Gonzaga University - Luger Field,47.6588,-117.4260,No,No
+Ivory Coast,🇨🇮,CAF,E,33,USA,Chester,Pennsylvania,Philadelphia Union Stadium (Subaru Park),39.8493,-75.3596,No,No
+DR Congo,🇨🇩,CAF,K,46,USA,Houston,Texas,Houston Sports Park (SaberCats Stadium),29.7604,-95.3698,No,No
+Tunisia,🇹🇳,CAF,F,45,Mexico,Santiago,Nuevo León,Rayados Training Center,25.4232,-100.3973,No,No
+South Africa,🇿🇦,CAF,A,60,Mexico,San Agustín Tlaxiaca,Hidalgo,CF Pachuca - Universidad del Fútbol,20.1011,-98.7421,No,No
+Ghana,🇬🇭,CAF,L,73,USA,Smithfield,Rhode Island,Bryant University,41.8954,-71.5393,No,No
+Cape Verde,🇨🇻,CAF,H,67,USA,Tampa,Florida,Waters Sportsplex,27.9506,-82.4572,Yes,No
+Japan,🇯🇵,AFC,F,18,USA,Nashville,Tennessee,Nashville SC Academy,36.1627,-86.7816,No,No
+Iran,🇮🇷,AFC,G,20,Mexico,Tijuana,Baja California,Centro Xoloitzcuintle,32.5149,-117.0382,No,No
+South Korea,🇰🇷,AFC,A,25,Mexico,Zapopan,Jalisco,Chivas Verde Valle,20.7214,-103.3862,No,No
+Australia,🇦🇺,AFC,D,27,USA,Oakland,California,Oakland Roots/Soul Training Facility,37.8044,-122.2712,No,No
+Qatar,🇶🇦,AFC,B,56,USA,Santa Barbara,California,Westmont College,34.4208,-119.6982,No,No
+Uzbekistan,🇺🇿,AFC,K,50,USA,Marietta,Georgia,Atlanta United Training Center,33.9526,-84.5499,Yes,No
+Jordan,🇯🇴,AFC,J,63,USA,Portland,Oregon,Providence Park / NWSL Facilities,45.5231,-122.6765,Yes,No
+Iraq,🇮🇶,AFC,I,57,USA,White Sulphur Springs,West Virginia,The Greenbrier Resort,37.7973,-80.3006,No,No
+Saudi Arabia,🇸🇦,AFC,H,61,USA,Austin,Texas,Austin FC Stadium (Q2),30.2672,-97.7431,No,No
+New Zealand,🇳🇿,OFC,G,85,USA,San Diego,California,Torero Stadium - Univ. of San Diego,32.7157,-117.1611,No,No

@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+.env
+venv/
+env/
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Tableau
+*.twb
+*.twbx
+
+# Large files
+*.xlsx
+
+# Editors
+.vscode/
+.idea/
+*.swp
