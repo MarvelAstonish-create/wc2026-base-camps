@@ -128,3 +128,7 @@ Kansas City, Missouri | Accra, Ghana
 This project is licensed under the MIT License. See [LICENSE](LICENSE) for details.
 
 Data is sourced from publicly available FIFA and sports media sources for educational and analytical purposes.
+
+## 📊 Live Dashboard
+
+🔗 [View Live Dashboard on Tableau Public](https://public.tableau.com/app/profile/marvel.astonish/viz/dashboard_preview_png_17816349811200/Dashboard1)
